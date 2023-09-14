@@ -14,7 +14,7 @@ GASのバージョン管理には、[clasp](https://github.com/google/clasp)を�
 - [来場者カウンタrepo](https://github.com/TsukasaTakahashi-z8/shibafes2023-visitors-counter)
 - [QRコードリーダv1 repo](https://github.com/TsukasaTakahashi-z8/shibafes2023QR)
 - [混雑情報提供システム](https://github.com/TsukasaTakahashi-z8/shibafes2023-congestion-situation-providing-system.git)
-- 来場者投票システム(未公開)
+- [来場者投票システム](https://github.com/TsukasaTakahashi-z8/shibafes2023-vote)
 - [ドキュメント生成ツール](https://github.com/TsukasaTakahashi-z8/shibafes2023-documents-generator.git)
 
 ## 議事録管理ツール
@@ -62,6 +62,9 @@ GASで、編集スプレッドシートに溜まった議事録から議事内�
 ## 来場者投票システム
 
 来場者が、企画投票を行うときに使います。2023年度は、混雑情報提供システムと相乗りサーバで提供し、アクセスの際も同じQRコードを利用します。  
+**内部のURLは、2023年9月29日~2023年12月11日のみ有効です。**
+
+- [リポジトリ](https://github.com/TsukasaTakahashi-z8/shibafes2023-vote)
 
 ## ドキュメント生成ツール
 
